@@ -1,12 +1,13 @@
-# React-RealEstate-FullStack
+ # React-RealEstate-FullStack
 Frontend using React, HTML, CSS. Backend using Strapi GraphQL.
+Based on https://github.com/lwoluke/React-RealEstate-Pt1
 ## Front End Setup
 To setup front end, follow these steps:
 
 1) Download NodeJS: https://nodejs.org/en/download/
 2) Clone this repo using the command:
 ```
-git clone "https://github.com/lwoluke/React-RealEstate-Pt1.git"
+git clone "https://github.com/csarsnchz/rrefs.git"
 ```
 3) CD into Front-End directory and Enter the following into the terminal:
 ```
@@ -45,6 +46,4 @@ To build the app for production:
 - CD into Back-End and enter ```npm run strapi build```
 
 Documentation for Deployment: https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html
-
-### Blog post I made on the creation of this project: https://medium.com/codex/reactjs-graphql-full-stack-real-estate-web-app-98b59fddc7a6
 
